@@ -55,7 +55,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    subtitle: DEEP SEE U
+    subtitle: deep see u
     text: ''
     elementId: ''
     styles:
