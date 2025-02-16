@@ -16,8 +16,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      And I always find, yeah, I always find somethin' wrong You been puttin' up
+      with' my shit just way too long I'm so gifted at findin' what I don't like
+      the most So I think it's time for us to have a toast
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
