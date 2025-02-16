@@ -20,9 +20,10 @@ sections:
       with' my shit just way too long I'm so gifted at findin' what I don't like
       the most So I think it's time for us to have a toast
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Let's have a toast for the douchebags Let's have a toast for the assholes
+      Let's have a toast for the scumbags Every one of them that I know Let's
+      have a toast for the jerk-offs That'll never take work off Baby, I got a
+      plan Run away fast as you can
     styles:
       self:
         height: auto
