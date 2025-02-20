@@ -16,7 +16,7 @@ sections:
     quote: |
       “服务器繁忙，请稍候再试”
     name: deepseeu
-    title: maybenotseeu
+    title: maybe not see u
     colors: colors-f
     elementId: ''
     styles:
