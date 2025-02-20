@@ -44,27 +44,4 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    subtitle: DEEP SEE U
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
 ---
