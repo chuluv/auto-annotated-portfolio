@@ -16,7 +16,7 @@ sections:
     quote: |
       “服务器繁忙，请稍候再试”
     name: deepseeu
-    title: Product Marketing Manager at Acme
+    title: maybenotseeu
     colors: colors-f
     elementId: ''
     styles:
