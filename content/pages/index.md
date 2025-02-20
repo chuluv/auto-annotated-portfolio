@@ -15,7 +15,7 @@ sections:
   - type: QuoteSection
     quote: |
       “服务器繁忙，请稍候再试”
-    name: Johnna Doe
+    name: deepseeu
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
