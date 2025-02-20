@@ -16,11 +16,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: >-
-      Let's have a toast for the douchebags Let's have a toast for the assholes
-      Let's have a toast for the scumbags Every one of them that I know Let's
-      have a toast for the jerk-offs That'll never take work off Baby, I got a
-      plan Run away fast as you can
+    subtitle: ''
     styles:
       self:
         height: auto
