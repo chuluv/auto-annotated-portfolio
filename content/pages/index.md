@@ -15,10 +15,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      And I always find, yeah, I always find somethin' wrong You been puttin' up
-      with' my shit just way too long I'm so gifted at findin' what I don't like
-      the most So I think it's time for us to have a toast
+    title: ''
     subtitle: >-
       Let's have a toast for the douchebags Let's have a toast for the assholes
       Let's have a toast for the scumbags Every one of them that I know Let's
