@@ -14,7 +14,7 @@ backgroundImage:
 sections:
   - type: QuoteSection
     quote: |
-      “服务器繁忙，请稍候再试”
+      You see the deep, and the deep sees you.
     name: deepseeu
     title: maybe not see u
     colors: colors-f
