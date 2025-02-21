@@ -16,7 +16,7 @@ sections:
     quote: |
       You see the deep, and the deep sees you.
     name: deepseeu
-    title: maybe not see u
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
