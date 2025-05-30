@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: GUUDUU
-colors: colors-b
+colors: colors-e
 sections: []
 backgroundImage:
   type: BackgroundImage
