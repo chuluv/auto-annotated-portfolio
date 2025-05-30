@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: GUUDUU
 colors: colors-b
 sections: []
 backgroundImage:
